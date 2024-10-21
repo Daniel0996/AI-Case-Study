@@ -50,7 +50,12 @@ Machine Learning models play a crucial role in predictive maintenance and help t
 ## References
 
 [Aramco page on Wikipedia](https://en.wikipedia.org/wiki/Saudi_Aramco)
+
 [Aramco official web site](https://www.aramco.com/en)
+
 [World Bank page on gas flaring](https://www.worldbank.org/en/programs/gasflaringreduction/gas-flaring-explained)
+
 [Instinctools blog on AI in Oil and Gas Industry](https://www.instinctools.com/blog/ai-in-oil-and-gas-industry/)
+
 [Moon Technolabs blog on the Future of AI in Oil and Gas](https://www.moontechnolabs.com/blog/ai-in-oil-and-gas/)
+
